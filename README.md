@@ -4,7 +4,7 @@ A collection of concise write-ups on small things I learn everyday across a vari
 ---
 
 ## Categories
-+ [Terminal](https://github.com/iJKTen/TIL#terminal)
++ [Terminal](#terminal)
 
-## Terminal
+### Terminal
 + [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/move-cursor-with-option-click.md)
