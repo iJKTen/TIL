@@ -1,0 +1,2 @@
+# Move your cursor in Terminal with option click
+I know you could select option + left / right arrow keys to move your cursor across a command but you could also select option + click to place your at a desired location.
