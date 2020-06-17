@@ -5,8 +5,12 @@ A collection of concise write-ups on small things I learn everyday across a vari
 
 ## Categories
 + [Terminal](#terminal)
++ [OSX](#osx)
 
 ---
 
 ### Terminal
 + [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/move-cursor-with-option-click.md)
+
+### OSX
++ [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/osx/switching-apps.md)
