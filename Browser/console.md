@@ -7,7 +7,7 @@ Instead of always using console.log think about console.warn and console.error w
 ## Logging objects
 Instead of logging a variable you can wrap the variable in an object and the console will display that object.
 ```
-console.log({variable1, variabl2});
+console.log({variable1, variable2});
 ```
 
 ## Color coded logs
