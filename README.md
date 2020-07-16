@@ -6,12 +6,13 @@ A collection of concise write-ups on small things I learn everyday across a vari
 ## Categories
 + [Terminal](#terminal)
 + [OSX](#osx)
-+ [Console](#console)
++ [Browser Console](#console)
 
 ---
 
 ### Terminal
-+ [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/move-cursor-with-option-click.md)
++ [Execute multiple commands](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md)
++ [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md)
 
 ### OSX
 + [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
