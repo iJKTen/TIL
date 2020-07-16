@@ -17,6 +17,6 @@ A collection of concise write-ups on small things I learn everyday across a vari
 + [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
 
 ### Console
-+ [Use console.warn and console.error](https://github.com/iJKTen/TIL/blob/master/Browser/console.md)
-+ [Logging objects](https://github.com/iJKTen/TIL/blob/master/Browser/console.md)
-+ [Color coded logs](https://github.com/iJKTen/TIL/blob/master/Browser/console.md)
++ [Use console.warn and console.error](https://github.com/iJKTen/TIL/blob/master/Browser/console.md#instead-of-logging-think-about-warn-and-error)
++ [Logging objects](https://github.com/iJKTen/TIL/blob/master/Browser/console.md#logging-objects)
++ [Color coded logs](https://github.com/iJKTen/TIL/blob/master/Browser/console.md#color-coded-logs)
