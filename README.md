@@ -6,6 +6,7 @@ A collection of concise write-ups on small things I learn everyday across a vari
 ## Categories
 + [Terminal](#terminal)
 + [OSX](#osx)
++ [Console](#console)
 
 ---
 
@@ -14,3 +15,8 @@ A collection of concise write-ups on small things I learn everyday across a vari
 
 ### OSX
 + [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
+
+### Console
++ [Use console.warn and console.error](https://github.com/iJKTen/TIL/blob/master/OSX/console.md)
++ [Logging objects](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
++ [Color coded logs](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
