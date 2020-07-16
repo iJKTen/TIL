@@ -11,8 +11,8 @@ A collection of concise write-ups on small things I learn everyday across a vari
 ---
 
 ### Terminal
-+ [Execute multiple commands](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md)
-+ [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md)
++ [Execute multiple commands](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md#execute-multiple-commands)
++ [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md#move-your-cursor-in-terminal-with-option-click)
 
 ### OSX
 + [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
