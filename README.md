@@ -15,7 +15,8 @@ A collection of concise write-ups on small things I learn everyday across a vari
 + [Move Cursor with Option + Click](https://github.com/iJKTen/TIL/blob/master/terminal/Terminal.md#move-your-cursor-in-terminal-with-option-click)
 
 ### OSX
-+ [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/OSX/switching-apps.md)
++ [Navigate backwards when switching apps](https://github.com/iJKTen/TIL/blob/master/OSX/OSX.md)
++ [Finder Navigation](https://github.com/iJKTen/TIL/blob/master/OSX/OSX.md)
 
 ### Console
 + [Use console.warn and console.error](https://github.com/iJKTen/TIL/blob/master/Browser/console.md#instead-of-logging-think-about-warn-and-error)
